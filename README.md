@@ -5,9 +5,9 @@
 ```JavaScript
 const Mobina={
 	pronouns: "she" | "her",
- 	languages-tools: [Javascript, HTML, CSS, SASS, Bootstrap, React, Git, Github, Sqlserver],
+ 	languages-tools: [HTML, CSS, SASS, Bootstrap, tailwind, Javascript, React, Redux, GraphQL, Git, Github, Sqlserver],
 	askMeAbout: ["web dev", "tech", "Js and its frameworks", "Databases"],
-	currentFocus: "My Focus point is to develope React at this time"
+	currentFocus: "My Focus point is to develope Next.js at this time"
 };
 ```
 ### Contact With me:
